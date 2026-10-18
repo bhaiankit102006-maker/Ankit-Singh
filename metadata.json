@@ -1,0 +1,6 @@
+{
+  "name": "NutriTrack - Real Health & Diet Tracking",
+  "description": "Professional health, nutrition, calorie, meal, water and weight tracking application with AI food scanner and personalized meal planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
